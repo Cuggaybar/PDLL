@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# oszn
+.idea/
+
+
 # C extensions
 *.so
 
